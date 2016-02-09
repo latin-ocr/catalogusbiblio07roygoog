@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogusbiblio07roygoog_0010.png"; bbox 0 0 2900 5142; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 740 1571 751 1656">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 740 1571 751 1656">
+     <span class='ocr_line' id='line_1_1' title="bbox 740 1571 751 1656; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 740 1571 751 1656; x_wconf 70' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 133 2063 1228 2178">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 133 2019 1228 2252">
+     <span class='ocr_line' id='line_1_2' title="bbox 133 2063 1228 2178; baseline -0.009 -1"><span class='ocrx_word' id='word_1_2' title='bbox 133 2063 709 2177; x_wconf 73' lang='lat' dir='ltr'>SCRIPTORES</span> <span class='ocrx_word' id='word_1_3' title='bbox 743 2105 807 2176; x_wconf 68' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 843 2063 1228 2178; x_wconf 51' lang='lat' dir='ltr'>PHYslcm.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1454 5142">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1454 5142">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1454 5142; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 0 0 1454 5142; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
